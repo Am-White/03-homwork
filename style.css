@@ -1,0 +1,63 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    display: block flex;
+    block-size: 100%;
+    background-color: rgb(92, 89, 89);
+    width: 100%;
+}
+
+/* Design of header "Amethyst White"*/
+h1 {
+    display: block;
+    block-size: 100%;
+    background-color: rgb(48, 221, 221);
+    justify-content: space-between;
+    margin: center;
+    float: left;
+    padding-left: 50px;
+    font-size: 40px;
+    color: rgb(92, 89, 89);
+}
+
+.title-links {
+    display: inline-flex;
+    position: relative;
+    float: right;
+    width: 500px;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-right: 20px;
+    flex-direction: row;
+}
+
+li {
+    list-style-type: none;
+    font-size: 100%;
+    font-weight: bolder;
+}
+
+img{
+    position: relative;
+    height: 210px;
+    width: 100%;
+}
+.image-title {
+    position: absolute;
+    right: 40px;
+    bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h2{
+    display: block;
+}
+.image-title h2{
+    color: rgb(92, 89, 89);
+    background-color: rgb(48, 221, 221);
+    font-size: 25px;
+    padding: 10px;
+}

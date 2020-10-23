@@ -15,7 +15,7 @@ My name is Amethyst White, I am a young woman from Seattle, WA. I am new to comp
 * And spaced all of my containers out within HTML to be more legible
 
 
-![alt text](https://github.com/Am-White/03-homework/blob/master/assets/images/html.png)
+![alt text](https://github.com/Am-White/03-homwork/blob/main/assets/images/html.png)
 
 
 

@@ -15,7 +15,7 @@ My name is Amethyst White, I am a young woman from Seattle, WA. I am new to comp
 * And spaced all of my containers out within HTML to be more legible
 
 
-![alt text](https://github.com/Am-White/03-homework/blob/master/assets/images/HTML.png)
+![alt text](https://github.com/Am-White/03-homework/blob/master/assets/images/html.png)
 
 
 
@@ -27,4 +27,4 @@ My name is Amethyst White, I am a young woman from Seattle, WA. I am new to comp
 * Struggled for a few hours on making my image grid under the Work category
 * Still working on getting the sub-text to appear on all images within the grid
   
-  ![alt text](https://github.com/Am-White/03-homework/blob/master/assets/images/CSS.png)
+  ![alt text](https://github.com/Am-White/03-homework/blob/master/assets/images/css.png)

@@ -120,7 +120,7 @@ main h1 {
 /* -Work section- */
 /*Large image styling*/
 #large-img {
-    background-image: url(https://picsum.photos/640/360);
+    background-image: url(./assets/images/nasa-img.png);
     background-position: center;
     background-size: cover;
     width: 100%;

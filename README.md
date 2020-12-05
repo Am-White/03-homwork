@@ -1,4 +1,4 @@
-# Proving all  Homework Migraines are worth it.. Eventually <h1>
+# Portfolio of Amethyst White<h1>
 
 ## GOAL <h2>
 My goal on this project is to demonstrate my skills with building a website from scratch. Using CSS and HTML only I put together a blocked structure resembling a portfolio page
